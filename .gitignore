@@ -5,8 +5,6 @@ __pycache__/
 *.so
 .Python
 venv/
-env/
-ENV/
 .venv
 
 # Node
@@ -17,9 +15,7 @@ yarn-error.log*
 dist/
 .DS_Store
 
-# Environment
-.env
-.env.local
+
 
 # IDE
 .vscode/
